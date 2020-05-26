@@ -1,20 +1,25 @@
 实用范围
 安卓/IOS，web前后端
 
-使用说明
-广州 http(s)://gz.ipapi.vip/api.php?ip=ipv4/ipv6
+【广州】
+
+http(s)://gz.ipapi.vip/api.php?ip=ipv4/ipv6
 
 https://gz.ipapi.vip/api.php?ip=114.114.114.114
 
 https://gz.ipapi.vip/api.php?ip=2400:da00::6666
 
-北京 http(s)://bj.ipapi.vip/api.php?ip=ipv4/ipv6
+【北京】
+
+http(s)://bj.ipapi.vip/api.php?ip=ipv4/ipv6
 
 https://bj.ipapi.vip/api.php?ip=114.114.114.114
 
 https://bj.ipapi.vip/api.php?ip=2400:da00::6666
 
-上海 http(s)://sh.ipapi.vip/api.php?ip=ipv4/ipv6
+【上海】 
+
+http(s)://sh.ipapi.vip/api.php?ip=ipv4/ipv6
 
 https://sh.ipapi.vip/api.php?ip=114.114.114.114
 
